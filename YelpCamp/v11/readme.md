@@ -1,3 +1,10 @@
+
+
+Note:  Due to merging trials in original webdevbootcamp repo, I created this repo and changed the remote origin for all material through YelpCamp v11. 
+
+---------------------------------------------------------------------------------
+
+
 #Creating New Campgrounds
 * Setup new campground POST route
 * Add in body-parser
